@@ -1,7 +1,7 @@
 import ToolBox from './toolBox'
 
-export default function Layout() {
+export default function Layout({ traceData }) {
   return (
-    <ToolBox />
+    <ToolBox traceData={traceData} />
   )
 }

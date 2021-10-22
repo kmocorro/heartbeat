@@ -12,11 +12,13 @@
     "@chakra-ui/react": "^1.6.10",
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
+    "csvtojson": "^2.0.10",
     "framer-motion": "^4.1.17",
     "next": "^11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-papaparse": "^3.17.2"
+    "react-papaparse": "^3.17.2",
+    "swr": "^1.0.1"
   },
   "devDependencies": {
     "csv-loader": "^3.0.3"
